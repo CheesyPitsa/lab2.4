@@ -36,8 +36,8 @@ model.compile(optimizer = opt,
 ![image](https://user-images.githubusercontent.com/113666100/235527548-d23fba38-2a45-4fe5-99e0-b2c9ed52143c.png)
 
 Результат:
-```python
 ![image](https://user-images.githubusercontent.com/113666100/235527853-82ff9c61-0ea1-485d-9554-de8d292bb88e.png)
+```python
 Sample Prediction after epoch 7
 
 57/57 [==============================] - 50s 872ms/step - loss: 0.3312 - accuracy: 0.8535 - val_loss: 0.3782 - val_accuracy: 0.8415
